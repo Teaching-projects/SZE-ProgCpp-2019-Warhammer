@@ -1,0 +1,2 @@
+# SZE-ProgCpp-2019-Warhammer
+A beadandó egy terepasztalos lista szerkesztő lenne. Egyik eléggé ismert terepasztalos játék a Warhammer 40.000, ahol különböző egységeket, különböző formációkban és felszerelésekkel lehet hozni. Mind ezek mellett minden egység egyedi tulajdonságokkal bírnak, és egyedi megkötések vannak mindenre. Az alábbi programot (BattleScribe Army List Builder) használnám mintának.
